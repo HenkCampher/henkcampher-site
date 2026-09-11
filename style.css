@@ -95,7 +95,7 @@ a {
 .hero__line {
   font-family: var(--body);
   font-size: clamp(1.1rem, 2vw, 1.4rem);
-  max-width: 34ch;
+  max-width: 60ch;
   color: var(--cream);
   margin: 0;
 }
