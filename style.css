@@ -223,7 +223,15 @@ main {
 .about {
   max-width: 1100px;
   margin: 0 auto;
-  padding: 2vh 6vw 10vh;
+  padding: 6vh 6vw 10vh;
+}
+
+.about__label {
+  font-family: var(--body);
+  font-style: italic;
+  color: var(--cream-dim);
+  margin: 0 0 1rem;
+  font-size: 1rem;
 }
 
 .about__body {
